@@ -9,4 +9,4 @@ https://aya-aadel.github.io/Argent-/
 * Promotional Top Bar
 * Dark Luxury UI Theme
 * Clean Layout with Modern Typography
-* The design focuses on , negative space, and premium branding visuals.
+* The design focuses on negative space and premium branding visuals.
